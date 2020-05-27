@@ -9,8 +9,9 @@ body{
 }
 
 #cabecera #logo{
-    width: 25px;
+    width: 70px;
     vertical-align: middle;
+    padding-top: 0.1em;
 }
 
 #container{
