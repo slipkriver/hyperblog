@@ -42,7 +42,9 @@ body{
     font-size: 0.8em;
 }
 
-#cabecera #logo{
-    width: 20px;
-    vertical-align: middle;
+#footer{
+    background: #778;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
